@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{88AF2B1B-8A2A-4BAD-75E4-0B0DBBD2FB3D}") = "Everybody's Heroes x86", "Assembly-CSharp.csproj", "{B4C01E36-BB00-942F-2ACE-DD1B40EDC6CE}"
+EndProject
+Project("{88AF2B1B-8A2A-4BAD-75E4-0B0DBBD2FB3D}") = "Everybody's Heroes x86", "Assembly-CSharp-Editor.csproj", "{03E96D24-7C7C-09B7-AB75-4323747BCDEB}"
+EndProject
+Project("{88AF2B1B-8A2A-4BAD-75E4-0B0DBBD2FB3D}") = "Everybody's Heroes x86", "Assembly-UnityScript.unityproj", "{C75FE884-43CB-A3D5-8072-7BCF068F1D19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4C01E36-BB00-942F-2ACE-DD1B40EDC6CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4C01E36-BB00-942F-2ACE-DD1B40EDC6CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4C01E36-BB00-942F-2ACE-DD1B40EDC6CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4C01E36-BB00-942F-2ACE-DD1B40EDC6CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03E96D24-7C7C-09B7-AB75-4323747BCDEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E96D24-7C7C-09B7-AB75-4323747BCDEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E96D24-7C7C-09B7-AB75-4323747BCDEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E96D24-7C7C-09B7-AB75-4323747BCDEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C75FE884-43CB-A3D5-8072-7BCF068F1D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C75FE884-43CB-A3D5-8072-7BCF068F1D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C75FE884-43CB-A3D5-8072-7BCF068F1D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C75FE884-43CB-A3D5-8072-7BCF068F1D19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -115,7 +115,6 @@ namespace TBTK {
 			TouchZoom ();
 			TouchRotate ();
 
-			/*
 			#if UNITY_EDITOR || !(UNITY_IPHONE && UNITY_ANDROID && UNITY_WP8 && UNITY_BLACKBERRY)
 			
 			//mouse and keyboard
@@ -220,7 +219,6 @@ namespace TBTK {
 			float z=Mathf.Clamp(thisT.position.z, minPosZ, maxPosZ);
 			
 			thisT.position=new Vector3(x, thisT.position.y, z);
-			*/
 			
 		}
 		

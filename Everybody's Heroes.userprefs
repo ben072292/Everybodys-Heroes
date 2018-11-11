@@ -1,11 +1,6 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TBTK/Scripts/UI/UIOverlay.cs">
-    <Files>
-      <File FileName="Assets/Everybody's Heroes/Scripts/CameraControl.cs" Line="249" Column="66" />
-      <File FileName="Assets/TBTK/Scripts/UI/UIOverlay.cs" Line="169" Column="63" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

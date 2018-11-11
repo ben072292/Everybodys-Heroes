@@ -5,8 +5,6 @@ Project("{7BC26D45-16C1-01EC-DEE1-09B2BB21D20B}") = "Everybody's Heroes", "Assem
 EndProject
 Project("{7BC26D45-16C1-01EC-DEE1-09B2BB21D20B}") = "Everybody's Heroes", "Assembly-CSharp-Editor.csproj", "{224D7992-E583-A2FA-D9D3-60776BD1068B}"
 EndProject
-Project("{7BC26D45-16C1-01EC-DEE1-09B2BB21D20B}") = "Everybody's Heroes", "Assembly-UnityScript.unityproj", "{8BCC4C91-1EFB-FDFF-F6FC-A44D1B21E501}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,10 +19,6 @@ Global
 		{224D7992-E583-A2FA-D9D3-60776BD1068B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{224D7992-E583-A2FA-D9D3-60776BD1068B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{224D7992-E583-A2FA-D9D3-60776BD1068B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8BCC4C91-1EFB-FDFF-F6FC-A44D1B21E501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8BCC4C91-1EFB-FDFF-F6FC-A44D1B21E501}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8BCC4C91-1EFB-FDFF-F6FC-A44D1B21E501}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8BCC4C91-1EFB-FDFF-F6FC-A44D1B21E501}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -48,5 +42,4 @@ Global
 		$3.inheritsScope = text/plain
 		$3.scope = text/plain
 	EndGlobalSection
-
 EndGlobal
