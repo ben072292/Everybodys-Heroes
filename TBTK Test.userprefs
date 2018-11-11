@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Everybody's Heroes\Scripts\TileCollider.cs">
+    <Files>
+      <File FileName="Assets\TBTK\Scripts\TurnControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Everybody's Heroes\Scripts\TileCollider.cs" Line="14" Column="34" />
+      <File FileName="Assets\TBTK\Scripts\AIManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\TBTK\Scripts\FactionManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\TBTK\Scripts\GameControl.cs" Line="208" Column="60" />
+      <File FileName="Assets\TBTK\Scripts\GridManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\TBTK\Scripts\Unit.cs" Line="1" Column="1" />
+      <File FileName="Assets\TBTK\Scripts\Tile.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
